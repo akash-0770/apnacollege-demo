@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is git repo
-Author - Akash Ghorpade
+<br>
+<b>Author - Akash Ghorpade</b>
